@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [Shanghao Innovation Institute](https://www.sii.edu.cn/), supervised by Research Scientist [Jing Shao](https://amandajshao.github.io/) in Shanghai AI Lab. I received my bachelor's degree from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/) （致远学院）, Shanghai Jiao Tong University in 2024.
+I am Yijin Zhou (周艺晋), currently a second-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [Shanghao Innovation Institute](https://www.sii.edu.cn/), supervised by Research Scientist [Jing Shao](https://amandajshao.github.io/) in Shanghai AI Lab. I received my bachelor's degree from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/), Shanghai Jiao Tong University, in 2024.
 My research interests lie in AI safety, AI agents, and computer vision. I explored medical image processing during my undergraduate studies and am now focusing on AI agent safety research. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 Findings🏸!
+- *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026!
 - *2025.09*: &nbsp;🎉🎉 Start my journal at Shanghao Innovation Institute!
 - *2025.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Shanghai AI Lab!
@@ -32,8 +34,10 @@ My research interests lie in AI safety, AI agents, and computer vision. I explor
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
 
 # 📝 Publications 
+- `Arxiv` [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/pdf/2603.14367), Xiaoya Lu, Yijin Zhou, Zeren Chen, Ruocheng Wang, Bingrui Sima, Enshen Zhou, Lu Sheng, Dongrui Liu, Jing Shao. [Github](https://github.com/AI45Lab/HomeGuard)
+- `CVPR 2026 Findings` [Jano: Adaptive Diffusion Generation with Early-stage Convergence Awareness](https://arxiv.org/pdf/2603.00519), Yuyang Chen, Linqian Zeng, Yijin Zhou, Hengjie Li, Jidong Zhai. [Github](https://github.com/chen-yy20/Jano)
 - `Arxiv` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), Yijin Zhou, Xiaoya Lu, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
-- `Arxiv` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
+- `CVPR 2026` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
 - `AAAI 2026` [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/pdf/2506.16402), Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, Dongrui Liu, Lu Sheng, Jing Shao. [Github](https://github.com/AI45Lab/IS-Bench) [Dataset](https://huggingface.co/datasets/Ursulalala/IS_Bench_dataset)
 - `Chapter in Book "Deep Learning in Drug Design"` [Generative models for drug design](https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443329081000155), Yijin Zhou, Yuguang Wang.
 - `Arxiv` [How Out-of-Distribution Detection Learning Theory Enhances Transformer: Learnability and Reliability](https://arxiv.org/pdf/2406.12915), Yijin Zhou, Yutang Ge, Wenyuan Xie, Linqian Zeng, Xiaowen Dong, Yuguang Wang. [Github](https://github.com/yjzscode/GROD-OOD-Detection-with-Transformers)
