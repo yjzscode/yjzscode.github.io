@@ -19,7 +19,7 @@ redirect_from:
 
 🙋 I am Yijin Zhou (周艺晋), currently a second-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [Shanghao Innovation Institute](https://www.sii.edu.cn/), supervised by Research Scientist [Jing Shao](https://amandajshao.github.io/). I received my bachelor's degree from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/), Shanghai Jiao Tong University, in 2024.
 
-📓 My research interests lie in AI agents, post-training, and trustworthiness. I explored medical image processing during my undergraduate studies and am now focusing on AI agent research. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
+📓 My research interests lie in AI agents, post-training, and trustworthiness. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
 
 
 # 🔥 News
