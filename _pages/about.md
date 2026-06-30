@@ -21,8 +21,25 @@ redirect_from:
 
 📓 My research interests lie in AI agents, post-training, and trustworthiness. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
 
+<style>
+.news-box {
+  max-height: 260px;
+  overflow-y: auto;
+  padding: 12px 18px;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  background: #fff;
+}
+
+.news-box ul {
+  margin-bottom: 0;
+}
+</style>
 
 # 🔥 News
+
+<div class="news-box" markdown="1">
+  
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by RSS 2026!
@@ -36,6 +53,8 @@ redirect_from:
 - *2024.06*: &nbsp;🎉🎉 Graduated and won Outstanding Undergraduate Thesis (Top 1%) and Outstanding Students of SJTU!
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICML 2024 FM-Wild Workshop!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
+
+</div>
 
 # 📝 Publications 
 ## (M)LLM Agent
