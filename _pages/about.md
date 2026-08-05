@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🙋 I am Yijin Zhou (周艺晋), currently a second-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [Shanghao Innovation Institute](https://www.sii.edu.cn/), supervised by Research Scientist [Jing Shao](https://amandajshao.github.io/). I received my bachelor's degree from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/), Shanghai Jiao Tong University, in 2024.
+🙋 I am Yijin Zhou (周艺晋), currently a second-year Ph.D. student at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and [Shanghao Innovation Institute](https://www.sii.edu.cn/), supervised by Professor [Junchi Yan](https://www.sii.edu.cn/2025/1001/c82a538/page.htm) and Research Scientist [Jing Shao](https://amandajshao.github.io/). I received my bachelor's degree from [Zhiyuan College](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/), Shanghai Jiao Tong University, in 2024.
 
-📓 My research interests lie in AI agents, post-training, and trustworthiness. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
+🔍 My research interests lie in AI agents, post-training, and trustworthiness. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
+
+💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—-feel free to drop me an email!
 
 <style>
 .news-box {
@@ -40,13 +42,13 @@ redirect_from:
 
 <div class="news-box" markdown="1">
   
-- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026!
-- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026!
-- *2026.04*: &nbsp;🎉🎉 One paper is accepted by RSS 2026!
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026🇸🇪!
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026🇰🇷!
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by RSS 2026🇦🇺!
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 Findings🏸!
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026!
-- *2025.09*: &nbsp;🎉🎉 Start my journal at Shanghao Innovation Institute!
+- *2025.09*: &nbsp;🎉🎉 Start my journey at Shanghao Innovation Institute!
 - *2025.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Shanghai AI Lab!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
 - *2024.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Alibaba!
@@ -57,16 +59,18 @@ redirect_from:
 </div>
 
 # 📝 Publications 
-## (M)LLM Agent
-- `Arxiv` [Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning](https://arxiv.org/pdf/2606.06976), **Yijin Zhou**, Linqian Zeng, Xiaoya Lu, Wenyuan Xie, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/TRUST)
-- `Arxiv` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), **Yijin Zhou\***, Xiaoya Lu\*, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
-- `CVPR 2026` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen\*, Xiaoya Lu\*, Zhijie Zheng, Pengrui Li, Lehan He, **Yijin Zhou**, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
-- `AAAI 2026` [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/pdf/2506.16402), Xiaoya Lu\*, Zeren Chen\*, Xuhao Hu\*, **Yijin Zhou**, Weichen Zhang, Dongrui Liu, Lu Sheng, Jing Shao. [Github](https://github.com/AI45Lab/IS-Bench) [Dataset](https://huggingface.co/datasets/Ursulalala/IS_Bench_dataset)
 
 ## (M)LLM Post-Training
+- `Arxiv` [Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning](https://arxiv.org/pdf/2606.06976), **Yijin Zhou**, Linqian Zeng, Xiaoya Lu, Wenyuan Xie, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/TRUST)
 - `ICML 2026` [How Out-of-Distribution Detection Learning Theory Enhances Transformer: Learnability and Reliability](https://arxiv.org/pdf/2406.12915), **Yijin Zhou**, Yutang Ge, Wenyuan Xie, Linqian Zeng, Xiaowen Dong, Yuguang Wang. [Github](https://github.com/yjzscode/GROD-OOD-Detection-with-Transformers)
 - `ECCV 2026` [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/pdf/2603.14367), Xiaoya Lu\*, **Yijin Zhou\***, Zeren Chen, Ruocheng Wang, Bingrui Sima, Enshen Zhou, Lu Sheng, Dongrui Liu, Jing Shao. [Github](https://github.com/AI45Lab/HomeGuard)
 - `ICML 2024 Workshop` [GROD: Enhancing Generalization of Transformer with Out-of-Distribution Detection](https://openreview.net/pdf?id=rh7qlZdUt5), **Yijin Zhou**, Yuguang Wang.
+
+## (M)LLM Agent
+- `Arxiv` [MAPLE-Guard: Memory-Aware Link Enforcement Against Memory-Link Poisoning in Multi-Agent Systems](https://arxiv.org/pdf/2608.00426), Wenjun Xiong\*,  **Yijin Zhou\***, Jiaqian Wang, Shangding Gu, Bo Tang, Zhiyu Li, Feiyu Xiong, Ying Wen, Muning Wen. [Github](https://github.com/xiong-wenjun/MAPLE-Guard)
+- `Arxiv` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), **Yijin Zhou\***, Xiaoya Lu\*, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
+- `CVPR 2026` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen\*, Xiaoya Lu\*, Zhijie Zheng, Pengrui Li, Lehan He, **Yijin Zhou**, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
+- `AAAI 2026` [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/pdf/2506.16402), Xiaoya Lu\*, Zeren Chen\*, Xuhao Hu\*, **Yijin Zhou**, Weichen Zhang, Dongrui Liu, Lu Sheng, Jing Shao. [Github](https://github.com/AI45Lab/IS-Bench) [Dataset](https://huggingface.co/datasets/Ursulalala/IS_Bench_dataset)
 
 
 ## Others
