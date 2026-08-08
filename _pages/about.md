@@ -21,7 +21,7 @@ redirect_from:
 
 🔍 My research interests lie in AI agents, post-training, and trustworthiness. Outside of research, I enjoy 🏸badminton and 🏋️fitness.
 
-💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—-feel free to drop me an email!
+💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—feel free to drop me an email!
 
 <style>
 .news-box {
