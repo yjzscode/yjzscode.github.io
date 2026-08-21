@@ -41,7 +41,8 @@ redirect_from:
 # 🔥 News
 
 <div class="news-box" markdown="1">
-  
+
+- *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026🇸🇪!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026🇸🇪!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026🇰🇷!
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by RSS 2026🇦🇺!
@@ -61,14 +62,14 @@ redirect_from:
 # 📝 Publications 
 
 ## (M)LLM Post-Training
-- `Arxiv` [Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning](https://arxiv.org/pdf/2606.06976), **Yijin Zhou**, Linqian Zeng, Xiaoya Lu, Wenyuan Xie, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/TRUST)
+- `EMNLP 2026` [Exploring Agentic Tool-Calling Decisions via Uncertainty-Aligned Reinforcement Learning](https://arxiv.org/pdf/2606.06976), **Yijin Zhou**, Linqian Zeng, Xiaoya Lu, Wenyuan Xie, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/TRUST)
 - `ICML 2026` [How Out-of-Distribution Detection Learning Theory Enhances Transformer: Learnability and Reliability](https://arxiv.org/pdf/2406.12915), **Yijin Zhou**, Yutang Ge, Wenyuan Xie, Linqian Zeng, Xiaowen Dong, Yuguang Wang. [Github](https://github.com/yjzscode/GROD-OOD-Detection-with-Transformers)
 - `ECCV 2026` [HomeGuard: VLM-based Embodied Safeguard for Identifying Contextual Risk in Household Task](https://arxiv.org/pdf/2603.14367), Xiaoya Lu\*, **Yijin Zhou\***, Zeren Chen, Ruocheng Wang, Bingrui Sima, Enshen Zhou, Lu Sheng, Dongrui Liu, Jing Shao. [Github](https://github.com/AI45Lab/HomeGuard)
 - `ICML 2024 Workshop` [GROD: Enhancing Generalization of Transformer with Out-of-Distribution Detection](https://openreview.net/pdf?id=rh7qlZdUt5), **Yijin Zhou**, Yuguang Wang.
 
 ## (M)LLM Agent
 - `Arxiv` [MAPLE-Guard: Memory-Aware Link Enforcement Against Memory-Link Poisoning in Multi-Agent Systems](https://arxiv.org/pdf/2608.00426), Wenjun Xiong\*,  **Yijin Zhou\***, Jiaqian Wang, Shangding Gu, Bo Tang, Zhiyu Li, Feiyu Xiong, Ying Wen, Muning Wen. [Github](https://github.com/xiong-wenjun/MAPLE-Guard)
-- `Arxiv` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), **Yijin Zhou\***, Xiaoya Lu\*, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
+- `EMNLP 2026` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), **Yijin Zhou\***, Xiaoya Lu\*, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
 - `CVPR 2026` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen\*, Xiaoya Lu\*, Zhijie Zheng, Pengrui Li, Lehan He, **Yijin Zhou**, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
 - `AAAI 2026` [IS-Bench: Evaluating Interactive Safety of VLM-Driven Embodied Agents in Daily Household Tasks](https://arxiv.org/pdf/2506.16402), Xiaoya Lu\*, Zeren Chen\*, Xuhao Hu\*, **Yijin Zhou**, Weichen Zhang, Dongrui Liu, Lu Sheng, Jing Shao. [Github](https://github.com/AI45Lab/IS-Bench) [Dataset](https://huggingface.co/datasets/Ursulalala/IS_Bench_dataset)
 
