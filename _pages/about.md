@@ -49,11 +49,11 @@ redirect_from:
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026 Findings🏸!
 - *2026.03*: &nbsp;🎉🎉 One paper is accepted by CVPR 2026!
 - *2025.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2026!
-- *2025.09*: &nbsp;🎉🎉 Start my journey at Shanghao Innovation Institute!
+- *2025.09*: &nbsp;🎉🎉 Start my journey at Shanghai Innovation Institute!
 - *2025.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Shanghai AI Lab!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
 - *2024.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Alibaba!
-- *2024.06*: &nbsp;🎉🎉 Graduated and won Outstanding Undergraduate Thesis (Top 1%) and Outstanding Students of SJTU!
+- *2024.06*: &nbsp;🎉🎉 Graduated and won Outstanding Undergraduate Thesis (Top 1%) and Outstanding Student of SJTU!
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICML 2024 FM-Wild Workshop!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
 
