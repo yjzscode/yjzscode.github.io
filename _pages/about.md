@@ -42,7 +42,7 @@ redirect_from:
 
 <div class="news-box" markdown="1">
 
-- *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026🇸🇪!
+- *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026🇭🇺!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026🇸🇪!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026🇰🇷!
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by RSS 2026🇦🇺!
