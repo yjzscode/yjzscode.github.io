@@ -41,7 +41,7 @@ redirect_from:
 # 🔥 News
 
 <div class="news-box" markdown="1">
-
+- *2026.09*: &nbsp;🎉🎉 One papers is accepted by NeurIPS 2026🏸!
 - *2026.08*: &nbsp;🎉🎉 Two papers are accepted by EMNLP 2026🇭🇺!
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ECCV 2026🇸🇪!
 - *2026.05*: &nbsp;🎉🎉 One paper is accepted by ICML 2026🇰🇷!
@@ -52,7 +52,7 @@ redirect_from:
 - *2025.09*: &nbsp;🎉🎉 Start my journey at Shanghai Innovation Institute!
 - *2025.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Shanghai AI Lab!
 - *2024.12*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
-- *2024.07*: &nbsp;🎉🎉 Start a period of algorithm internship at Alibaba!
+- *2024.07*: &nbsp;🎉🎉 Started an algorithm internship at Alibaba!
 - *2024.06*: &nbsp;🎉🎉 Graduated and won Outstanding Undergraduate Thesis (Top 1%) and Outstanding Student of SJTU!
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by ICML 2024 FM-Wild Workshop!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by Medical Image Analysis (IF 10.9)!
@@ -68,6 +68,7 @@ redirect_from:
 - `ICML 2024 Workshop` [GROD: Enhancing Generalization of Transformer with Out-of-Distribution Detection](https://openreview.net/pdf?id=rh7qlZdUt5), **Yijin Zhou**, Yuguang Wang.
 
 ## (M)LLM Agent
+- `Arxiv` [Navi-Agent: Unlocalized Monocular Navigation Agent](https://arxiv.org/pdf/2609.20388), Wenyuan Xie\*, Mengyang Hong\*, Yongzhong Wang\*, Yanbiao Ji, **Yijin Zhou**, Shaokai Wu, Shalayiding Sirejiding, Huayi Zhou, Yi-Chao Chen, Ma Ling, Yue Ding, Hongtao Lu.
 - `Arxiv` [MAPLE-Guard: Memory-Aware Link Enforcement Against Memory-Link Poisoning in Multi-Agent Systems](https://arxiv.org/pdf/2608.00426), Wenjun Xiong\*,  **Yijin Zhou\***, Jiaqian Wang, Shangding Gu, Bo Tang, Zhiyu Li, Feiyu Xiong, Ying Wen, Muning Wen. [Github](https://github.com/xiong-wenjun/MAPLE-Guard)
 - `EMNLP 2026` [INFA-Guard: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems](https://arxiv.org/pdf/2601.14667), **Yijin Zhou\***, Xiaoya Lu\*, Dongrui Liu, Junchi Yan, Jing Shao. [Github](https://github.com/yjzscode/INFA-Guard)
 - `CVPR 2026` [Geometrically-Constrained Agent for Spatial Reasoning](https://arxiv.org/pdf/2511.22659), Zeren Chen\*, Xiaoya Lu\*, Zhijie Zheng, Pengrui Li, Lehan He, **Yijin Zhou**, Jing Shao, Bohan Zhuang, Lu Sheng. [Github](https://github.com/gca-spatial-reasoning/gca) [Page](https://gca-spatial-reasoning.github.io/)
@@ -75,9 +76,10 @@ redirect_from:
 
 
 ## Others
+- `NeurIPS 2026` CuBic: Curvature-Driven Dynamic Inference Caching for Fast, High-Fidelity Flow Matching, Yuyang Chen\*, Linqian Zeng\*, **Yijin Zhou**, Hengjie Li, Jidong Zhai. 
 - `CVPR 2026 Findings` [Jano: Adaptive Diffusion Generation with Early-stage Convergence Awareness](https://arxiv.org/pdf/2603.00519), Yuyang Chen\*, Linqian Zeng\*, **Yijin Zhou**, Hengjie Li, Jidong Zhai. [Github](https://github.com/chen-yy20/Jano)
-- `Arxiv` [DeepSight: An All-in-One LM Safety Toolkit](https://arxiv.org/pdf/2602.12092), Bo Zhang, Jiaxuan Guo, Lijun Li, Dongrui Liu, Sujin Chen, Guanxu Chen, Zhijie Zheng, Qihao Lin, Lewen Yan, Chen Qian, **Yijin Zhou**, Yuyao Wu, Shaoxiong Guo, Tianyi Du, Jingyi Yang, Xuhao Hu, Ziqi Miao, Xiaoya Lu, Jing Shao, Xia Hu. [DeepSafe](https://github.com/AI45Lab/DeepSafe) [DeepScan](https://github.com/AI45Lab/DeepScan)
-- `Arxiv` [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1. 5](https://arxiv.org/pdf/2602.14457), Dongrui Liu, Yi Yu, Jie Zhang, Guanxu Chen, Qihao Lin, Hanxi Zhu, Lige Huang, **Yijin Zhou**, Peng Wang, Shuai Shao, Boxuan Zhang, Zicheng Liu, Jingwei Sun, Yu Li, Yuejin Xie, Jiaxuan Guo, Jia Xu, Chaochao Lu, Bowen Zhou, Xia Hu, Jing Shao.
+- `Open Source Toolkit` [DeepSight: An All-in-One LM Safety Toolkit](https://arxiv.org/pdf/2602.12092), Bo Zhang, Jiaxuan Guo, Lijun Li, Dongrui Liu, Sujin Chen, Guanxu Chen, Zhijie Zheng, Qihao Lin, Lewen Yan, Chen Qian, **Yijin Zhou**, Yuyao Wu, Shaoxiong Guo, Tianyi Du, Jingyi Yang, Xuhao Hu, Ziqi Miao, Xiaoya Lu, Jing Shao, Xia Hu. [DeepSafe](https://github.com/AI45Lab/DeepSafe) [DeepScan](https://github.com/AI45Lab/DeepScan)
+- `Technical Report` [Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1. 5](https://arxiv.org/pdf/2602.14457), Dongrui Liu, Yi Yu, Jie Zhang, Guanxu Chen, Qihao Lin, Hanxi Zhu, Lige Huang, **Yijin Zhou**, Peng Wang, Shuai Shao, Boxuan Zhang, Zicheng Liu, Jingwei Sun, Yu Li, Yuejin Xie, Jiaxuan Guo, Jia Xu, Chaochao Lu, Bowen Zhou, Xia Hu, Jing Shao.
 - `Chapter in Book "Deep Learning in Drug Design"` [Generative models for drug design](https://www.sciencedirect.com/science/chapter/edited-volume/pii/B9780443329081000155), **Yijin Zhou**, Yuguang Wang.
 - `Medical Image Analysis` [Learnable color space conversion and fusion for stain normalization in pathology images](https://www.sciencedirect.com/science/article/pii/S1361841524003499), Jing Ke, **Yijin Zhou**（学生一作）, Yiqing Shen, Yi Guo, Ning Liu, Xiaodan Han, Dinggang Shen. [Github](https://github.com/yjzscode/Optimal-Normalisation-in-Color-Spaces)
 - `Medical Image Analysis` [Clusterseg: A crowd cluster pinpointed nucleus segmentation framework with cross-modality datasets](https://www.sciencedirect.com/science/article/pii/S1361841523000191), Jing Ke, Yizhou Lu, Yiqing Shen, Junchao Zhu, **Yijin Zhou**, Jinghan Huang, Jieteng Yao, Xiaoyao Liang, Yi Guo, Zhonghua Wei, Sheng Liu, Qin Huang, Fusong Jiang, Dinggang Shen. [Github](https://github.com/lu-yizhou/ClusterSeg)
@@ -94,9 +96,10 @@ redirect_from:
 - *2025.09 - Now*, Phd Student, Shanghai Innovation Institute, Shanghai.
 - *2024.09 - Now*, Phd Student, Shanghai Jiao Tong University, Shanghai.
 - *2020.09 - 2024.06*, Undergraduate, Shanghai Jiao Tong University, Shanghai.
+- *2017.09 - 2020.06*, Hangzhou Xuejun High School, Hangzhou.
 
 
 # 💻 Internships
-- *2025.07 - 2026.07*, AI Algorithm Intern, Shanghai Artificial Intelligence Laboratory
+- *2025.07 - 2026.07*, Research Intern, Shanghai Artificial Intelligence Laboratory
 - *2024.06 - 2024.08*, AI Algorithm Intern, Alibaba Cloud Computing Co., Ltd.
 
