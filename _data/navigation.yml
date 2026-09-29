@@ -4,19 +4,25 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Research Experience"
+    url: "/#experience"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Awards"
+    url: "/#awards"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Interests"
+    url: "/#interests"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Travel"
+    url: "/#travel"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Friends"
+    url: "/#friends"

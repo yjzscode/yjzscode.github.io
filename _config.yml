@@ -6,9 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijin Zhou （周艺晋）"
-description              : "Welcome to my channel! "
-repository               : "yjzscode/yijinzhou.github.io"
+title                    : "Yijin Zhou | AI Agents & Trustworthy AI"
+description              : "Yijin Zhou (周艺晋) is a Ph.D. candidate in Mathematics at Shanghai Jiao Tong University and in Artificial Intelligence at Shanghai Innovation Institute, researching AI agents, post-training, and trustworthy AI."
+url                      : "https://yjzscode.github.io"
+baseurl                  : ""
+repository               : "yjzscode/yjzscode.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -23,11 +25,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yijin Zhou"
   avatar           : "images/life.png"
-  bio              : "Shanghai Jiao Tong University & Shanghai Innovation Institute"
+  bio              : "Ph.D. Candidate · SJTU & Shanghai Innovation Institute"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gOGntcYAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=gOGntcYAAAAJ&hl=zh-CN&oi=ao"
   email            : "yijinzhou2002@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -38,6 +40,7 @@ author:
   facebook         :
   foursquare       :
   github           : "yjzscode"
+  xiaohongshu      : "https://www.xiaohongshu.com/user/profile/5f0d93ad000000000101ee9b"
   google_plus      :
   keybase          :
   instagram        :

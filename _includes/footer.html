@@ -1,0 +1,111 @@
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-col footer-brand">
+      <div class="footer-name">Yijin Zhou <span class="footer-name-cn">周艺晋</span></div>
+      <div class="footer-tag">AI agents · post-training · trustworthy AI</div>
+    </div>
+    <nav class="footer-col footer-links" aria-label="Footer sections">
+      <div class="footer-heading">Sections</div>
+      <a href="#about-me">About Me</a>
+      <a href="#news">News</a>
+      <a href="#publications">Publications</a>
+      <a href="#awards">Awards</a>
+    </nav>
+    <div class="footer-col footer-connect">
+      <div class="footer-heading">Connect</div>
+      <div class="footer-icons">
+        {% if author.email %}<a href="mailto:{{ author.email }}" aria-label="Email" title="Email"><i class="fas fa-envelope"></i></a>{% endif %}
+        {% if author.github %}<a href="https://github.com/{{ author.github }}" aria-label="GitHub" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
+        {% if author.googlescholar %}<a href="{{ author.googlescholar }}" aria-label="Google Scholar" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>{% endif %}
+        {% if author.xiaohongshu %}<a href="{{ author.xiaohongshu }}" aria-label="Xiaohongshu" title="Xiaohongshu"><i class="fas fa-book-open"></i></a>{% endif %}
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© {{ 'now' | date: '%Y' }} Yijin Zhou · Powered by Jekyll · Updated {{ site.time | date: '%Y-%m-%d' }}</span>
+    <span>Built with the AcadHomepage template</span>
+  </div>
+</footer>
+
+<div id="img-lightbox" aria-hidden="true"><img alt=""></div>
+
+<script>
+// 主题切换：初始化由 head/custom.html 的内联脚本完成（避免闪烁），这里只接管按钮
+document.addEventListener('DOMContentLoaded', function() {
+  // --- 图片点击放大 lightbox ---
+  var lightbox = document.getElementById('img-lightbox');
+  var lightboxImg = lightbox ? lightbox.querySelector('img') : null;
+  if (lightbox && lightboxImg) {
+    var openLightbox = function(src, alt) {
+      lightboxImg.src = src;
+      lightboxImg.alt = alt || '';
+      lightbox.classList.add('open');
+      lightbox.setAttribute('aria-hidden', 'false');
+      document.body.style.overflow = 'hidden';
+    };
+    var closeLightbox = function() {
+      lightbox.classList.remove('open');
+      lightbox.setAttribute('aria-hidden', 'true');
+      lightboxImg.src = '';
+      document.body.style.overflow = '';
+    };
+    lightbox.addEventListener('click', closeLightbox);
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeLightbox();
+    });
+    // Interests / Travel 卡片里的照片直接放大（webp 已是全分辨率）
+    document.querySelectorAll('.interest-card img').forEach(function(img) {
+      img.addEventListener('click', function() { openLightbox(img.src, img.alt); });
+    });
+    // 论文配图：拦截原跳转，改为 lightbox 内放大
+    document.querySelectorAll('.paper-image-link').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        openLightbox(link.href, '');
+      });
+    });
+  }
+
+  var toggle = document.getElementById('theme-toggle');
+  if (toggle) {
+    var syncIcon = function() {
+      var dark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var icon = toggle.querySelector('i');
+      if (icon) icon.className = dark ? 'fas fa-sun' : 'fas fa-moon';
+      toggle.setAttribute('aria-pressed', dark ? 'true' : 'false');
+    };
+    toggle.addEventListener('click', function() {
+      var next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      try { localStorage.setItem('site-theme', next); } catch (e) {}
+      syncIcon();
+    });
+    syncIcon();
+  }
+
+  // 导航 scrollspy：高亮当前 section 对应的 masthead 链接
+  var navLinks = Array.prototype.slice.call(document.querySelectorAll('.masthead__menu-item a[data-section]'));
+  if (navLinks.length && 'IntersectionObserver' in window) {
+    var bySectionId = {};
+    navLinks.forEach(function(link) { bySectionId[link.dataset.section] = link; });
+    var sections = Object.keys(bySectionId)
+      .map(function(id) { return document.getElementById(id); })
+      .filter(Boolean);
+    var setActive = function(id) {
+      navLinks.forEach(function(link) {
+        link.classList.toggle('active', link.dataset.section === id);
+      });
+    };
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) setActive(entry.target.id);
+      });
+    }, { rootMargin: '-20% 0px -70% 0px', threshold: 0 });
+    sections.forEach(function(section) { observer.observe(section); });
+  }
+});
+</script>
