@@ -305,6 +305,27 @@
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  margin: 0 0 0.84rem;
+  font-size: 1.4em;
+  line-height: 1.25;
+}
+
+.research-profile-card {
+  padding: 1.68rem 1.96rem 1.9rem;
+}
+
+.research-profile-card > ul {
+  margin: 0;
+  padding-left: 1.4rem;
+}
+
+.research-profile-card > ul > li {
+  margin-bottom: 0.56rem;
+  line-height: 1.5;
+}
+
+.research-profile-card > ul > li:last-child {
+  margin-bottom: 0;
 }
 
 .profile-evidence-links {
@@ -357,7 +378,7 @@
 
 .generalization-figure {
   max-width: 980px;
-  margin: 0.45rem auto 0;
+  margin: 1.3rem auto 0;
   text-align: center;
 }
 
@@ -373,6 +394,10 @@
 }
 
 @media (max-width: 768px) {
+  .research-profile-card {
+    padding: 1.3rem 1.1rem 1.5rem;
+  }
+
   .generalization-figure img {
     border-radius: 8px;
   }
