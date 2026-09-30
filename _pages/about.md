@@ -131,7 +131,7 @@ header:
     <div class="credential-content">
       <h3>Hangzhou Xuejun High School</h3>
       <div class="credential-line"><i class="fas fa-school"></i><span>Hangzhou, China</span></div>
-      <div class="credential-line"><i class="fas fa-circle-info"></i><span>Additional details: <b class="placeholder-text">to be provided or removed</b></span></div>
+      <div class="credential-line"><i class="fas fa-circle-info"></i><span>Always happy to connect with fellow high school alumni🤝</span></div>
     </div>
   </div>
 </div>
