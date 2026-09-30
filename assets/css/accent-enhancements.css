@@ -2488,16 +2488,29 @@ a.profile-contact-item:hover {
 }
 
 .award-group-list li {
+  position: relative;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 1rem;
-  padding: 0.52rem 0;
+  margin: 0.08rem 0;
+  padding: 0.62rem 0.7rem;
+  border: 1px solid transparent;
   border-bottom: 1px dashed rgba(23, 63, 99, 0.08);
+  border-radius: 0.65rem;
+  transition: transform 180ms ease, background-color 180ms ease,
+    border-color 180ms ease, box-shadow 180ms ease;
 }
 
 .award-group-list li:last-child {
   border-bottom: none;
+}
+
+.award-group-list li:hover {
+  transform: translateX(0.25rem);
+  background: linear-gradient(90deg, rgba(184, 121, 36, 0.14), rgba(184, 121, 36, 0.025));
+  border-color: rgba(184, 121, 36, 0.28);
+  box-shadow: inset 0.2rem 0 0 #B87924, 0 0.35rem 0.9rem rgba(23, 63, 99, 0.08);
 }
 
 .award-item-name {
@@ -2513,6 +2526,14 @@ a.profile-contact-item:hover {
   font-size: 0.8rem;
   font-weight: 700;
   white-space: nowrap;
+}
+
+.award-group-list li:hover .award-item-name {
+  color: #B87924;
+}
+
+.award-group-list li:hover .award-item-year {
+  color: #012F63;
 }
 
 
