@@ -74,21 +74,21 @@ header:
 # 🔥 News
 <div class="news-panel" markdown="1">
 
-- *2026.09*: &nbsp;🎉 One paper is accepted by <span class="accent-text">NeurIPS 2026</span>.
-- *2026.08*: &nbsp;🇭🇺 Two papers are accepted by <span class="accent-text">EMNLP 2026</span>.
-- *2026.06*: &nbsp;🇸🇪 One paper is accepted by <span class="accent-text">ECCV 2026</span>.
-- *2026.05*: &nbsp;🇰🇷 One paper is accepted by <span class="accent-text">ICML 2026</span>.
+- *2026.09*: &nbsp;🎉 One paper is accepted by <span class="accent-text">NeurIPS 2026</span>. 
+- *2026.08*: &nbsp;🇭🇺 Two papers are accepted by <span class="accent-text">EMNLP 2026</span>. (first author)
+- *2026.06*: &nbsp;🇸🇪 One paper is accepted by <span class="accent-text">ECCV 2026</span>. (co-first author)
+- *2026.05*: &nbsp;🇰🇷 One paper is accepted by <span class="accent-text">ICML 2026</span>. (first author)
 - *2026.04*: &nbsp;🇦🇺 One paper is accepted by <span class="accent-text">RSS 2026</span>.
 - *2026.03*: &nbsp;🎉 One paper is accepted by <span class="accent-text">CVPR 2026 Findings</span>.
 - *2026.03*: &nbsp;🎉 One paper is accepted by <span class="accent-text">CVPR 2026</span>.
 - *2025.11*: &nbsp;🎉 One paper is accepted by <span class="accent-text">AAAI 2026</span>.
-- *2025.09*: &nbsp;🎓 Started my journey at Shanghai Innovation Institute.
-- *2025.07*: &nbsp;🎓 Started a research internship at Shanghai AI Lab.
-- *2025.04*: &nbsp;🎉 One paper is accepted by Medical Image Analysis.
-- *2024.06*: &nbsp;🎓 Graduated from SJTU and received the Excellent Bachelor's Thesis award (Top 1%).
-- *2024.06*: &nbsp;🎓 Started an algorithm internship at Alibaba Cloud.
-- *2024.02*: &nbsp;🎉 One paper is accepted by the ICML 2024 FM-Wild Workshop.
-- *2023.10*: &nbsp;🎉 One paper is accepted by Medical Image Analysis.
+- *2025.09*: &nbsp;🎓 Started my journey at <span class="accent-text">Shanghai Innovation Institute</span>.
+- *2025.07*: &nbsp;🎓 Started a research internship at <span class="accent-text">Shanghai AI Lab</span>.
+- *2025.04*: &nbsp;🎉 One paper is accepted by <span class="accent-text">Medical Image Analysis</span>. (corresponding author and first student author)
+- *2024.06*: &nbsp;🎓 Graduated from SJTU and received the <span class="accent-text">Excellent Bachelor's Thesis Award</span> (Top 1%).
+- *2024.06*: &nbsp;🎓 Started an algorithm internship at <span class="accent-text">Alibaba Cloud</span>.
+- *2024.02*: &nbsp;🎉 One paper is accepted by the <span class="accent-text">ICML 2024 FM-Wild Workshop</span>.
+- *2023.10*: &nbsp;🎉 One paper is accepted by <span class="accent-text">Medical Image Analysis</span>.
 
 </div>
 
@@ -160,6 +160,8 @@ header:
 </div>
 
 <span class='anchor' id='publications'></span>
+
+
 # 📃 Publications
 
 <section class="research-trajectory floating-card" aria-labelledby="research-trajectory-title">
