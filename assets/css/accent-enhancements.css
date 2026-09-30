@@ -1315,6 +1315,10 @@ a.profile-contact-item:hover {
   scroll-margin-top: 2.5rem;
 }
 
+.paper-box.hidden {
+  display: none !important;
+}
+
 .paper-box:hover {
   transform: translateY(-4px);
   box-shadow: 0 12px 35px rgba(23, 63, 99, 0.1), 0 4px 15px rgba(184, 121, 36, 0.08);
