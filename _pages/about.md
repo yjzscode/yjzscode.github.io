@@ -13,16 +13,11 @@ header:
 
 <span class='anchor' id='about-me'></span>
 
-👨‍🔬 I am <span class="author-highlight">Yijin Zhou</span>（周艺晋）, currently a second-year Ph.D. student at <a href="https://www.sjtu.edu.cn/" class="link-accent">Shanghai Jiao Tong University</a> and <a href="https://www.sii.edu.cn/" class="link-accent">Shanghai Innovation Institute</a>, supervised by Professor <a href="https://www.sii.edu.cn/2025/1001/c82a538/page.htm" class="link-accent">Junchi Yan</a> and Research Scientist <a href="https://amandajshao.github.io/" class="link-accent">Jing Shao</a>. I received my bachelor's degree from <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" class="link-accent">Zhiyuan College</a>, Shanghai Jiao Tong University, in 2024.
+🙋‍♀️ I am <span class="author-highlight">Yijin Zhou</span>（周艺晋）, currently a second-year Ph.D. student at <a href="https://www.sjtu.edu.cn/" class="link-accent">Shanghai Jiao Tong University</a> and <a href="https://www.sii.edu.cn/" class="link-accent">Shanghai Innovation Institute</a>, supervised by Professor <a href="https://www.sii.edu.cn/2025/1001/c82a538/page.htm" class="link-accent">Junchi Yan</a> and Research Scientist <a href="https://amandajshao.github.io/" class="link-accent">Jing Shao</a>. I received my bachelor's degree from <a href="https://zhiyuan.sjtu.edu.cn/html/zhiyuan/" class="link-accent">Zhiyuan College</a>, Shanghai Jiao Tong University, in 2024.
 
 🔍 My research interests lie in <strong>AI agents</strong>, <strong>post-training</strong>, and <strong>trustworthiness</strong>.
 
-💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—feel free to drop me an email!
-
-<div class="profile-quick-links">
-  <a class="btn-accent" href="https://scholar.google.com/citations?user=gOGntcYAAAAJ&hl=zh-CN&oi=ao"><i class="fas fa-graduation-cap"></i> Google Scholar</a>
-  <a class="btn-outline" href="mailto:yijinzhou2002@gmail.com"><i class="fas fa-envelope"></i> Email</a>
-</div>
+💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—feel free to drop me an <a href="mailto:yijinzhou2002@gmail.com" class="link-accent">emali</a>!
 
 <details class="quick-jump-nav">
   <summary aria-label="Open section navigation">
@@ -45,27 +40,26 @@ header:
 <!-- Temporarily hidden research summary block.
 <div class="profile-summary-stack">
   <div class="highlight-block floating-card research-profile-card">
-    <h3><i class="fas fa-robot"></i> AI Agent Researcher</h3>
+    <h3><i class="fas fa-robot"></i> Building AI Agents for Real Life.</h3>
     <ul>
       <li><span class="primary-gradient-text">Agentic post-training</span>:
         teaching language and vision-language models to reason, use tools, and learn from interaction.
         <div class="profile-evidence-links">
           <a href="#pub-trust">TRUST <span>EMNLP'26</span></a>
-          <a href="#pub-grod-theory">GROD <span>ICML'24 WS</span></a>
         </div>
       </li>
-      <li><span class="primary-gradient-text">Trustworthy multi-agent systems</span>:
+      <li><span class="primary-gradient-text">Trustworthy agent systems</span>:
         designing safeguards and evaluations that make agents more robust against harmful propagation and unsafe behavior.
         <div class="profile-evidence-links">
           <a href="#pub-infa-guard">INFA-Guard <span>EMNLP'26</span></a>
+          <a href="#pub-homeguard">HomeGuard <span>ECCV'26</span></a>
           <a href="#pub-is-bench">IS-Bench <span>AAAI'26</span></a>
         </div>
       </li>
       <li><span class="primary-gradient-text">Reliable generalization</span>:
         understanding out-of-distribution behavior and building models that remain dependable beyond their training data.
         <div class="profile-evidence-links">
-          <a href="#pub-homeguard">HomeGuard <span>ECCV'26</span></a>
-          <a href="#pub-clusterseg">Clusterseg <span>MedIA</span></a>
+          <a href="#pub-pub-ood-theory">OOD Theory and SFT <span>ICML'26</span></a>
         </div>
       </li>
     </ul>
