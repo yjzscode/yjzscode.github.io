@@ -17,7 +17,7 @@ header:
 
 🔍 My research interests lie in <strong>AI agents</strong>, <strong>post-training</strong>, and <strong>trustworthiness</strong>.
 
-💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—feel free to drop me an <a href="mailto:yijinzhou2002@gmail.com" class="link-accent">emali</a>!
+💻 I am currently seeking industrial research/engineering internships related to agentic post-training. Always open to ☕️coffee chats, 💬scientific discussions, and 🤝potential collaborations—feel free to drop me an <a href="mailto:yijinzhou2002@gmail.com" class="link-accent">email</a>!
 
 <details class="quick-jump-nav">
   <summary aria-label="Open section navigation">
@@ -76,14 +76,16 @@ header:
 <div class="news-panel" markdown="1">
 
 - *2026.09*: &nbsp;🎉 One paper is accepted by <span class="accent-text">NeurIPS 2026</span>.
-- *2026.08*: &nbsp;🎉 Two papers are accepted by <span class="accent-text">EMNLP 2026</span>.
-- *2026.06*: &nbsp;🎉 One paper is accepted by <span class="accent-text">ECCV 2026</span>.
-- *2026.05*: &nbsp;🎉 One paper is accepted by <span class="accent-text">ICML 2026</span>.
-- *2026.04*: &nbsp;🎉 One paper is accepted by <span class="accent-text">RSS 2026</span>.
-- *2026.03*: &nbsp;🎉 One paper is accepted by <span class="accent-text">CVPR 2026 Findings</span> and one by <span class="accent-text">CVPR 2026</span>.
+- *2026.08*: &nbsp;🇭🇺 Two papers are accepted by <span class="accent-text">EMNLP 2026</span>.
+- *2026.06*: &nbsp;🇸🇪 One paper is accepted by <span class="accent-text">ECCV 2026</span>.
+- *2026.05*: &nbsp;🇰🇷 One paper is accepted by <span class="accent-text">ICML 2026</span>.
+- *2026.04*: &nbsp;🇦🇺 One paper is accepted by <span class="accent-text">RSS 2026</span>.
+- *2026.03*: &nbsp;🎉 One paper is accepted by <span class="accent-text">CVPR 2026 Findings</span>.
+- *2026.03*: &nbsp;🎉 One paper is accepted by <span class="accent-text">CVPR 2026</span>.
 - *2025.11*: &nbsp;🎉 One paper is accepted by <span class="accent-text">AAAI 2026</span>.
 - *2025.09*: &nbsp;🎓 Started my journey at Shanghai Innovation Institute.
 - *2025.07*: &nbsp;🎓 Started a research internship at Shanghai AI Lab.
+- *2025.04*: &nbsp;🎉 One paper is accepted by Medical Image Analysis.
 - *2024.06*: &nbsp;🎓 Graduated from SJTU and received the Excellent Bachelor's Thesis award (Top 1%).
 - *2024.06*: &nbsp;🎓 Started an algorithm internship at Alibaba Cloud.
 - *2024.02*: &nbsp;🎉 One paper is accepted by the ICML 2024 FM-Wild Workshop.
