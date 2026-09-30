@@ -37,7 +37,6 @@ header:
   </nav>
 </details>
 
-<!-- Temporarily hidden research summary block.
 <div class="profile-summary-stack">
   <div class="highlight-block floating-card research-profile-card">
     <h3><i class="fas fa-robot"></i> Building AI Agents for Real Life.</h3>
@@ -59,17 +58,17 @@ header:
       <li><span class="primary-gradient-text">Reliable generalization</span>:
         understanding out-of-distribution behavior and building models that remain dependable beyond their training data.
         <div class="profile-evidence-links">
-          <a href="#pub-pub-ood-theory">OOD Theory and SFT <span>ICML'26</span></a>
+          <a href="#pub-ood-theory">OOD Theory and SFT <span>ICML'26</span></a>
         </div>
       </li>
     </ul>
     <figure class="generalization-figure">
-      <img src="images/500x300.png" alt="Research overview placeholder — please provide a research diagram" width="500" height="300" decoding="async" loading="lazy">
-      <figcaption class="placeholder-note">Research overview graphic placeholder — please provide a preferred figure or keep this card text-only.</figcaption>
+      <a href="{{ '/images/research-overview.png' | relative_url }}" target="_blank" rel="noopener" aria-label="View the research overview at full resolution">
+        <img src="{{ '/images/research-overview.png' | relative_url }}" alt="Building reliable and generalizable AI agents for real life through multimodal perception, world models, agentic reasoning, and multi-agent collaboration." width="1536" height="1024" decoding="async" loading="lazy">
+      </a>
     </figure>
   </div>
 </div>
--->
 
 <span class='anchor' id='news'></span>
 # 🔥 News
