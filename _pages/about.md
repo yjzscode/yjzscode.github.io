@@ -168,12 +168,12 @@ header:
   <div class="trajectory-heading">
     <div>
       <h2 id="research-trajectory-title">Research Trajectory</h2>
-      <p>Selected first- and co-first-author works. Hollow dots mark an arXiv release; solid dots mark an accepted paper.</p>
+      <p>Selected first- and co-first-author works.</p>
     </div>
     <div class="trajectory-legend" aria-label="Timeline legend">
       <span><i class="dot dot-arxiv"></i> arXiv v1</span>
       <span><i class="dot dot-accepted"></i> Accepted</span>
-      <span><i class="dot dot-highlight"></i> Highlight</span>
+      <!-- <span><i class="dot dot-highlight"></i> Highlight</span> -->
     </div>
   </div>
   <div class="trajectory-axis" aria-hidden="true">
@@ -184,14 +184,14 @@ header:
       <div class="lane-label"><i class="fas fa-microchip"></i><span>Post-training</span></div>
       <div class="lane-track">
         <a class="trajectory-link trajectory-span" href="#pub-grod-theory" style="--start: 3%; --end: 12%; --mid: 7%; --y: 32%;" title="GROD: arXiv 2024.06 → ICML Workshop 2024"><span class="timeline-label label-above" style="left: var(--mid);">GROD <span class="timeline-venue">(ICML'24 WS)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-        <a class="trajectory-link trajectory-span" href="#pub-trust" style="--start: 69%; --end: 79%; --mid: 74%; --y: 70%;" title="TRUST: arXiv 2026.06 → EMNLP 2026"><span class="timeline-label label-below" style="left: var(--mid);">TRUST <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot highlight-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-ood-theory" style="--start: 38.9%; --end: 72.2%; --mid: 55.6%; --y: 32%;" title="OOD: arXiv 2025.02 → ICML 2026"><span class="timeline-label label-above" style="left: var(--mid);">OOD <span class="timeline-venue">(ICML'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-trust" style="--start: 69%; --end: 79%; --mid: 74%; --y: 70%;" title="TRUST: arXiv 2026.06 → EMNLP 2026"><span class="timeline-label label-below" style="left: var(--mid);">TRUST <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
       </div>
     </div>
     <div class="trajectory-lane">
       <div class="lane-label"><i class="fas fa-shield-halved"></i><span>Trust &amp; safety</span></div>
       <div class="lane-track">
         <a class="trajectory-link trajectory-span" href="#pub-infa-guard" style="--start: 69%; --end: 79%; --mid: 74%; --y: 34%;" title="INFA-Guard: arXiv 2026.01 → EMNLP 2026"><span class="timeline-label label-above" style="left: var(--mid);">INFA-Guard <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-        <a class="trajectory-link trajectory-span" href="#pub-is-bench" style="--start: 52%; --end: 79%; --mid: 65%; --y: 72%;" title="IS-Bench: arXiv 2025.06 → AAAI 2026"><span class="timeline-label label-below" style="left: var(--mid);">IS-Bench <span class="timeline-venue">(AAAI'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
       </div>
     </div>
     <div class="trajectory-lane trajectory-lane-compact">
