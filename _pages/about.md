@@ -189,14 +189,9 @@ header:
       </div>
     </div>
     <div class="trajectory-lane">
-      <div class="lane-label"><i class="fas fa-shield-halved"></i><span>Trust &amp; safety</span></div>
+      <div class="lane-label"><i class="fas fa-shield-halved"></i><span>Trustworthy </span></div>
       <div class="lane-track">
         <a class="trajectory-link trajectory-span" href="#pub-infa-guard" style="--start: 69%; --end: 79%; --mid: 74%; --y: 34%;" title="INFA-Guard: arXiv 2026.01 → EMNLP 2026"><span class="timeline-label label-above" style="left: var(--mid);">INFA-Guard <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-      </div>
-    </div>
-    <div class="trajectory-lane trajectory-lane-compact">
-      <div class="lane-label"><i class="fas fa-arrows-spin"></i><span>Reliable generalization</span></div>
-      <div class="lane-track">
         <a class="trajectory-link trajectory-span" href="#pub-homeguard" style="--start: 60%; --end: 72%; --mid: 66%; --y: 50%;" title="HomeGuard: arXiv 2026.03 → ECCV 2026"><span class="timeline-label label-above" style="left: var(--mid);">HomeGuard <span class="timeline-venue">(ECCV'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
       </div>
     </div>
