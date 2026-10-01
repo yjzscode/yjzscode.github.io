@@ -29,7 +29,7 @@ header:
     <a href="#news"><i class="fas fa-fire"></i><span>News</span></a>
     <a href="#education"><i class="fas fa-graduation-cap"></i><span>Education</span></a>
     <a href="#experience"><i class="fas fa-briefcase"></i><span>Experience</span></a>
-    <a href="#publications"><i class="fas fa-file-lines"></i><span>Publications</span></a>
+    <a href="#publications"><i class="fas fa-file-alt"></i><span>Publications</span></a>
     <a href="#awards"><i class="fas fa-trophy"></i><span>Awards</span></a>
     <a href="#interests"><i class="fas fa-futbol"></i><span>Interests</span></a>
     <a href="#travel"><i class="fas fa-plane"></i><span>Travel</span></a>
