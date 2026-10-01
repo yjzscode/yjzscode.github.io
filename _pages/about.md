@@ -450,7 +450,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span class='anchor' id='awards'></span>
 # 🏆 Awards
 <div class="award-card award-card-group floating-card">
-  <div class="award-group-header"><img class="award-group-logo" src="images/sjtubannerred.png" alt="Shanghai Jiao Tong University logo" width="2025" height="532" decoding="async" loading="lazy"><div class="award-group-name">Shanghai Jiao Tong University</div></div>
+  <div class="award-group-header"><img class="award-group-logo" src="images/sjtu-seal.png" alt="Shanghai Jiao Tong University seal" width="326" height="301" decoding="async" loading="lazy"><div class="award-group-name">Shanghai Jiao Tong University</div></div>
   <ul class="award-group-list">
     <li><span class="award-item-name">Excellent Bachelor's Thesis (Top 1%)</span><span class="award-item-year">2024.06</span></li>
     <li><span class="award-item-name">“Chun-Tsung Scholar” Honorary Title, conferred by Nobel Laureate Tsung-Dao Lee</span><span class="award-item-year">2023.05</span></li>
