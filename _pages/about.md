@@ -478,9 +478,9 @@ document.addEventListener('DOMContentLoaded', function() {
   <div class="interest-intro"><div class="interest-text"><br>🇭🇺 See you in EMNLP 2026, Budapest!</div></div>
 </div>
 
-<span class='anchor' id='friends'></span>
+<!-- <span class='anchor' id='friends'></span>
 # 🔗 Academic Friends
 <div class="friends-card floating-card placeholder-card">
   <p class="friends-text">Please provide academic friends' names, affiliations, and homepage links if you would like this section to be populated.</p>
   <p class="friends-note">Friend list placeholder — the reference card and links are ready.</p>
-</div>
+</div> -->
