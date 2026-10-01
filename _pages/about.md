@@ -84,10 +84,10 @@ header:
 - *2025.11*: &nbsp;🎉 One paper is accepted by <span class="accent-text">AAAI 2026</span>.
 - *2025.09*: &nbsp;🎓 Started my journey at <span class="accent-text">Shanghai Innovation Institute</span>.
 - *2025.07*: &nbsp;🎓 Started a research internship at <span class="accent-text">Shanghai AI Lab</span>.
-- *2025.04*: &nbsp;🎉 One paper is accepted by <span class="accent-text">Medical Image Analysis</span>. (corresponding author and first student author)
+- *2025.04*: &nbsp;🎉 One paper is accepted by <span class="accent-text">Medical Image Analysis</span>. (first student author and corresponding author)
 - *2024.06*: &nbsp;🎓 Graduated from SJTU and received the <span class="accent-text">Excellent Bachelor's Thesis Award</span> (Top 1%).
 - *2024.06*: &nbsp;🎓 Started an algorithm internship at <span class="accent-text">Alibaba Cloud</span>.
-- *2024.02*: &nbsp;🎉 One paper is accepted by the <span class="accent-text">ICML 2024 FM-Wild Workshop</span>.
+- *2024.02*: &nbsp;🎉 One paper is accepted by the <span class="accent-text">ICML 2024 FM-Wild Workshop</span>. (first author)
 - *2023.10*: &nbsp;🎉 One paper is accepted by <span class="accent-text">Medical Image Analysis</span>.
 
 </div>
