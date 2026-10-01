@@ -2318,6 +2318,14 @@ a.profile-contact-item:hover {
   line-height: 1.6;
 }
 
+.interest-text p {
+  margin: 0 0 0.65rem;
+}
+
+.interest-text p:last-child {
+  margin-bottom: 0;
+}
+
 .interest-photos {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -2342,6 +2350,17 @@ a.profile-contact-item:hover {
 
 .interest-photo img:hover {
   transform: scale(1.015);
+}
+
+.interest-photos-triple {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.interest-photos-triple .interest-photo img {
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
 }
 
 .interest-photo figcaption {
