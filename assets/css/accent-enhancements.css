@@ -999,7 +999,7 @@ a.profile-contact-item:hover {
 .trajectory-axis {
   position: relative;
   height: 1.15rem;
-  margin: 0.25rem 0 0.35rem 8.7rem;
+  margin: 0.25rem 0 0.35rem 9.45rem;
   border-top: 1px solid rgba(23, 63, 99, 0.14);
 }
 
@@ -1116,18 +1116,10 @@ a.profile-contact-item:hover {
   z-index: 1;
 }
 
-.trajectory-link.same-month .span-line {
-  left: var(--start);
-  width: 1.2rem;
-  transform: translate(-0.6rem, -50%);
-}
-
-.trajectory-link.same-month .arxiv-dot {
-  transform: translate(calc(-50% - 0.42rem), -50%);
-}
-
 .trajectory-link.same-month .accepted-dot {
-  transform: translate(calc(-50% + 0.42rem), -50%);
+  width: 0.32rem;
+  height: 0.32rem;
+  box-shadow: none;
 }
 
 .timeline-dot {

@@ -176,6 +176,7 @@ header:
       <!-- <span><i class="dot dot-highlight"></i> Highlight</span> -->
     </div>
   </div>
+  <!-- Monthly scale: January 2024 = 0%, January 2027 = 100%. -->
   <div class="trajectory-axis" aria-hidden="true">
     <span style="left: 0%">2024</span><i class="axis-tick" style="left: 16.7%"></i><span style="left: 33.3%">2025</span><i class="axis-tick" style="left: 50%"></i><span style="left: 66.7%">2026</span><i class="axis-tick" style="left: 83.3%"></i><span style="left: 100%">2027</span>
   </div>
@@ -183,16 +184,16 @@ header:
     <div class="trajectory-lane">
       <div class="lane-label"><i class="fas fa-microchip"></i><span>Post-training</span></div>
       <div class="lane-track">
-        <a class="trajectory-link trajectory-span" href="#pub-grod-theory" style="--start: 3%; --end: 12%; --mid: 7%; --y: 32%;" title="GROD: arXiv 2024.06 → ICML Workshop 2024"><span class="timeline-label label-above" style="left: var(--mid);">GROD <span class="timeline-venue">(ICML'24 WS)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-        <a class="trajectory-link trajectory-span" href="#pub-ood-theory" style="--start: 38.9%; --end: 72.2%; --mid: 55.6%; --y: 32%;" title="OOD: arXiv 2025.02 → ICML 2026"><span class="timeline-label label-above" style="left: var(--mid);">OOD <span class="timeline-venue">(ICML'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-        <a class="trajectory-link trajectory-span" href="#pub-trust" style="--start: 69%; --end: 79%; --mid: 74%; --y: 70%;" title="TRUST: arXiv 2026.06 → EMNLP 2026"><span class="timeline-label label-below" style="left: var(--mid);">TRUST <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span same-month" href="#pub-grod-theory" style="--start: 13.8889%; --end: 13.8889%; --mid: 13.8889%; --y: 32%;" title="GROD: arXiv 2024.06 → ICML Workshop accepted 2024.06"><span class="timeline-label label-above" style="left: var(--mid);">GROD <span class="timeline-venue">(ICML'24 WS)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-ood-theory" style="--start: 36.1111%; --end: 77.7778%; --mid: 56.9444%; --y: 32%;" title="OOD: arXiv 2025.02 → ICML accepted 2026.05"><span class="timeline-label label-above" style="left: var(--mid);">OOD <span class="timeline-venue">(ICML'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-trust" style="--start: 80.5556%; --end: 86.1111%; --mid: 83.3333%; --y: 74%;" title="TRUST: arXiv 2026.06 → EMNLP accepted 2026.08"><span class="timeline-label label-above" style="left: var(--mid);">TRUST <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
       </div>
     </div>
     <div class="trajectory-lane">
       <div class="lane-label"><i class="fas fa-shield-halved"></i><span>Trustworthy </span></div>
       <div class="lane-track">
-        <a class="trajectory-link trajectory-span" href="#pub-infa-guard" style="--start: 69%; --end: 79%; --mid: 74%; --y: 34%;" title="INFA-Guard: arXiv 2026.01 → EMNLP 2026"><span class="timeline-label label-above" style="left: var(--mid);">INFA-Guard <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
-        <a class="trajectory-link trajectory-span" href="#pub-homeguard" style="--start: 60%; --end: 72%; --mid: 66%; --y: 74%;" title="HomeGuard: arXiv 2026.03 → ECCV 2026"><span class="timeline-label label-above" style="left: var(--mid);">HomeGuard <span class="timeline-venue">(ECCV'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-infa-guard" style="--start: 66.6667%; --end: 86.1111%; --mid: 76.3889%; --y: 34%;" title="INFA-Guard: arXiv 2026.01 → EMNLP accepted 2026.08"><span class="timeline-label label-above" style="left: var(--mid);">INFA-Guard <span class="timeline-venue">(EMNLP'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
+        <a class="trajectory-link trajectory-span" href="#pub-homeguard" style="--start: 72.2222%; --end: 83.3333%; --mid: 77.7778%; --y: 74%;" title="HomeGuard: arXiv 2026.03 → ECCV accepted 2026.07"><span class="timeline-label label-above" style="left: var(--mid);">HomeGuard <span class="timeline-venue">(ECCV'26)</span></span><span class="span-line"></span><span class="timeline-dot arxiv-dot" style="left: var(--start);"></span><span class="timeline-dot accepted-dot" style="left: var(--end);"></span></a>
       </div>
     </div>
   </div>
