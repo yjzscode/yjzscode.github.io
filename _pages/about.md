@@ -481,6 +481,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <span class='anchor' id='friends'></span>
 # 🔗 Academic Friends
 <div class="friends-card floating-card">
-  <p class="friends-text">My academic friends include <a class="friend-link" href="https://scholar.google.com/citations?user=7lhCpMoAAAAJ&amp;hl=zh-CN&amp;oi=ao">Xiaoya Lu</a>, <a class="friend-link" href="https://borisxwy.github.io/">Wenyuan Xie</a>, <a class="friend-link" href="https://scholar.google.com/citations?user=cGFX4CEAAAAJ&amp;hl=zh-CN&amp;oi=ao">Linqian Zeng</a>, <a class="friend-link" href="https://chen-yy20.github.io/">Yuyang Chen</a>, and <a class="friend-link" href="https://scholar.google.com/citations?hl=zh-CN&amp;user=NPePREMAAAAJ">Qi Chen</a>.</p>
-  <p class="friends-note">Many more friends have shaped my journey—if I missed you here, please send me a friendly reminder! 😂</p>
+  <p class="friends-text">My academic friends include <a class="friend-link" href="https://scholar.google.com/citations?user=7lhCpMoAAAAJ&amp;hl=zh-CN&amp;oi=ao">Xiaoya Lu</a>, <a class="friend-link" href="https://borisxwy.github.io/">Wenyuan Xie</a>, <a class="friend-link" href="">Linqian Zeng</a>, <a class="friend-link" href="https://chen-yy20.github.io/">Yuyang Chen</a>, and <a class="friend-link" href="https://scholar.google.com/citations?hl=zh-CN&amp;user=NPePREMAAAAJ">Qi Chen</a>.</p>
+  <p class="friends-note">Many more friends have shaped my journey—if I missed you here, please send me a friendly reminder 🌹</p>
 </div>
